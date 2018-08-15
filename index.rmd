@@ -1,0 +1,8 @@
+---
+title: "index.rmd"
+author: "Jerry Tucay"
+date: "August 15, 2018"
+output: html_document
+---
+
+math is just applied philosphy
